@@ -1,0 +1,3 @@
+http://localhost/codeigniter/index.php/usuariosController/index/
+
+http://localhost/codeigniter/index.php/usuariosController/newusuario/
